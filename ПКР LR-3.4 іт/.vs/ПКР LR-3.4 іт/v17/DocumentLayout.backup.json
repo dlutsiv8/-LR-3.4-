@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B352D79-A0AC-1720-674F-E85109B2EB5F}|UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.vcxproj|C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B352D79-A0AC-1720-674F-E85109B2EB5F}|UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.vcxproj|solutionrelative:UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6050656C-6362-4BA0-9544-B89CE6497802}|\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.vcxproj|C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6050656C-6362-4BA0-9544-B89CE6497802}|\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.vcxproj|solutionrelative:\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest3.4 \u0456\u0442.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.cpp",
+              "RelativeDocumentMoniker": "UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.cpp",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.cpp*",
+              "RelativeToolTip": "UnitTest3.4 \u0456\u0442\\UnitTest3.4 \u0456\u0442.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T14:14:06.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp",
+              "RelativeDocumentMoniker": "\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp",
+              "RelativeToolTip": "\u041F\u041A\u0420 LR-3.4 \u0456\u0442\\\u041F\u041A\u0420 LR-3.4 \u0456\u0442.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T14:12:32.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

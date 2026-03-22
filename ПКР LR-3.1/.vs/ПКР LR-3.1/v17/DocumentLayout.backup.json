@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90D26A5A-E423-308D-6392-385623EC8FE0}|UnitTest3.1\\UnitTest3.1.vcxproj|C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\UnitTest3.1\\UnitTest3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{90D26A5A-E423-308D-6392-385623EC8FE0}|UnitTest3.1\\UnitTest3.1.vcxproj|C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\UnitTest3.1\\UnitTest3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90D26A5A-E423-308D-6392-385623EC8FE0}|UnitTest3.1\\UnitTest3.1.vcxproj|solutionrelative:UnitTest3.1\\UnitTest3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B58455A4-1049-4FBB-987A-B2AB60F9D441}|\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.vcxproj|C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B58455A4-1049-4FBB-987A-B2AB60F9D441}|\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.vcxproj|C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B58455A4-1049-4FBB-987A-B2AB60F9D441}|\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.vcxproj|solutionrelative:\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest3.1.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\UnitTest3.1\\UnitTest3.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\UnitTest3.1\\UnitTest3.1.cpp",
               "RelativeDocumentMoniker": "UnitTest3.1\\UnitTest3.1.cpp",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\UnitTest3.1\\UnitTest3.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\UnitTest3.1\\UnitTest3.1.cpp",
               "RelativeToolTip": "UnitTest3.1\\UnitTest3.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-07T18:56:28.179Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "\u041F\u041A\u0420 LR-3.1.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp",
               "RelativeDocumentMoniker": "\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041E\u041E\u041F Visual Studio\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u041A\u0420 Visual Studio\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp",
               "RelativeToolTip": "\u041F\u041A\u0420 LR-3.1\\\u041F\u041A\u0420 LR-3.1.cpp",
               "ViewState": "AgIAACwAAAAAAAAAAAAAwD8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-07T18:46:47.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T18:46:47.358Z"
             }
           ]
         }
